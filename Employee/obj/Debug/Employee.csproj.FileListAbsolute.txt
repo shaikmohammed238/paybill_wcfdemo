@@ -1,0 +1,7 @@
+D:\cfp all\CFP(projects)\Employee\Employee\bin\Employee.dll.config
+D:\cfp all\CFP(projects)\Employee\Employee\bin\Employee.dll
+D:\cfp all\CFP(projects)\Employee\Employee\bin\Employee.pdb
+D:\cfp all\CFP(projects)\Employee\Employee\obj\Debug\Employee.csproj.AssemblyReference.cache
+D:\cfp all\CFP(projects)\Employee\Employee\obj\Debug\Employee.csproj.CoreCompileInputs.cache
+D:\cfp all\CFP(projects)\Employee\Employee\obj\Debug\Employee.dll
+D:\cfp all\CFP(projects)\Employee\Employee\obj\Debug\Employee.pdb
